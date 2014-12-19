@@ -1,0 +1,13 @@
+contain 1 android/support/v4/app
+contain 1 android/support/v4/content
+contain 1 android/support/v4/os
+contain 1 android/support/v4/util
+contain 1 android/support/v4/view
+contain 1 android/support/v4/widget
+contain 2 com/actionbarsherlock
+contain 2 com/google/ads
+contain 3 org/acra
+contain 3 org/apache/commons/io
+contain 4 uk/org/cardboardbox/wonderdroid
+contain 5 android/support/v4/accessibilityservice
+contain 6 android/support/v4/database

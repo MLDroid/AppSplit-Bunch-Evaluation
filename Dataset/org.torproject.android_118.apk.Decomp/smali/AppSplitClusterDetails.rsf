@@ -1,0 +1,15 @@
+contain 1 a/a/a/a
+contain 2 android/support/v4/a
+contain 2 android/support/v4/b/a
+contain 2 android/support/v4/c
+contain 2 android/support/v4/d
+contain 2 android/support/v4/view
+contain 2 android/support/v4/widget
+contain 3 android/support/v7/a
+contain 3 android/support/v7/c
+contain 3 android/support/v7/internal/view
+contain 3 android/support/v7/internal/widget
+contain 3 android/support/v7/widget
+contain 4 org/a/a
+contain 4 org/torproject/android
+contain 5 android/support/v7/b

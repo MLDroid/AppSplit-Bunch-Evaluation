@@ -1,0 +1,8 @@
+contain 1 com/hughes/android/dictionary
+contain 1 com/hughes/android/util
+contain 1 com/hughes/util
+contain 2 com/ibm/icu/impl
+contain 2 com/ibm/icu/lang
+contain 2 com/ibm/icu/math
+contain 2 com/ibm/icu/text
+contain 2 com/ibm/icu/util

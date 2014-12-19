@@ -1,0 +1,13 @@
+1,android/support/v13/app android/support/v4/app android/support/v4/content android/support/v4/internal/view android/support/v4/media android/support/v4/os android/support/v4/util android/support/v4/view android/support/v4/widget android/test
+2,com/vmihalachi/turboeditor
+3,de/greenrobot/event
+4,junit/awtui junit/extensions junit/framework junit/runner junit/swingui junit/textui
+5,org/apache/commons/io
+6,android/annotation
+7,android/support/v4/accessibilityservice
+8,android/support/v4/database
+9,android/support/v4/graphics/drawable
+10,android/support/v4/hardware/display
+11,android/support/v4/net
+12,android/support/v4/text
+13,it/gmariotti/changelibs

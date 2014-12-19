@@ -1,0 +1,23 @@
+1,android/support/v4/os
+2,android/support/v4/app android/support/v4/content android/support/v4/util
+3,android/support/v4/view android/support/v4/widget
+4,com/actionbarsherlock
+5,com/fasterxml/jackson/annotation
+6,com/fasterxml/jackson/core com/fasterxml/jackson/databind
+7,com/jjoe64/graphview
+8,com/veken0m/bitcoinium com/veken0m/compatibility
+9,com/veken0m/mining/bitminter
+10,com/veken0m/mining/btcguild
+11,com/veken0m/mining/deepbit
+12,com/veken0m/mining/eligius
+13,com/veken0m/mining/emc
+14,com/veken0m/mining/fiftybtc
+15,com/veken0m/mining/slush
+16,com/xeiam/xchange
+17,net/margaritov/preference/colorpicker
+18,org/joda/money
+19,org/slf4j
+20,si/mazi/rescu
+21,android/support/v4/accessibilityservice
+22,android/support/v4/database
+23,javax/ws/rs
